@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Usages IA4SUP
+description: des ressources pour utiliser l'IA dans le cadre de la formation supérieure
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://usagesIA4sup.github.io
+repository: usagesIA4sup/usagesIA4sup
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
