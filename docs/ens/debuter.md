@@ -4,7 +4,7 @@ layout: default
 parent: Enseignant
 nav_order: 1
 ---
-# Première partie : prendre en main les IA génératives  {#première-partie-:-prendre-en-main-les-ia-génératives}
+# Première partie : prendre en main les IA génératives 
 
 Cette première partie est pensée comme un guide de démarrage. Nous vous proposons ici des exemples d’usages pouvant aider les enseignants dans leur pratique quotidienne, et des ressources pour pouvoir progresser en autonomie. 
 
@@ -21,7 +21,7 @@ Nous supposons que vous êtes familiers des concepts, et des limites de base des
 
 L’objectif de ce guide est simplement de proposer 15 usages pratiques répartis en 3 catégories. Commencez par vous essayer sur 2 ou 3 exemples de votre choix que vous adapterez à votre contexte. Maîtrisez les avant d’en ajouter d’autres. évaluez l’impact sur votre travail et le cas échéant sur l’apprentissage de vos étudiants. 
 
-## Des exemples d’usage pour démarrer  {#des-exemples-d’usage-pour-démarrer}
+## Des exemples d’usage pour démarrer  
 
 Nous vous proposons quinze exemples d’usages d’IA générative dans le cadre d’une activité d’enseignement. Cette liste a été établie en récoltant [des exemples avérés recueillis par OpenAI](https://chatgpt.com/use-cases/university-educators), l’entreprise qui développe ChatGPT, des retours recueillis sur le Web ou dans la littérature scientifique. Ces éléments ont servi de base de [discussion avec l’IA générative Claude de chez Anthropic](https://poe.com/s/76GJ10NvM0SduxVimjN9), pour développer un maximum d’exemples, puis de sélectionner les plus représentatifs. Cette liste a été finalement organisée selon le choix des auteurs. Nous attendons de nos lecteurs leurs retours pour pouvoir l’améliorer. 
 
@@ -29,9 +29,9 @@ Les exemples ont été répartis en 3 catégories, qui correspondent à 3 phases
 
 Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message initiant la conversation avec un agent conversationnel), et l’intérêt que vous pourrez en retirer. N’hésitez pas à l’adapter et à le compléter pour l’adapter à votre contexte.
 
-### Préparation et conception de cours  {#préparation-et-conception-de-cours}
+### Préparation et conception de cours 
 
-#### 1\. Génération de plans de cours structurés {#1.-génération-de-plans-de-cours-structurés}
+#### 1\. Génération de plans de cours structurés 
 
 **Pourquoi commencer par ici :** Gain de temps immédiat, structure claire, facile à adapter.
 
@@ -42,7 +42,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 2\. Reformulation pour différents niveaux {#2.-reformulation-pour-différents-niveaux}
+#### 2\. Reformulation pour différents niveaux 
 
 **Pourquoi :** Inclusivité instantanée, adaptabilité pédagogique.
 
@@ -53,7 +53,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 3\. Création de questions d'examen variées {#3.-création-de-questions-d'examen-variées}
+#### 3\. Création de questions d'examen variées 
 
 **Pourquoi :** Élimine l'angoisse de la page blanche, diversité automatique.
 
@@ -64,7 +64,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 4\. Génération d'exemples contextualisés {#4.-génération-d'exemples-contextualisés}
+#### 4\. Génération d'exemples contextualisés
 
 **Pourquoi :** Les étudiants retiennent mieux avec des exemples familiers.
 
@@ -75,7 +75,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 5\. Correction orthographique et amélioration stylistique de vos supports {#5.-correction-orthographique-et-amélioration-stylistique-de-vos-supports}
+#### 5\. Correction orthographique et amélioration stylistique de vos supports 
 
 **Pourquoi :** Professionnalisme accru sans effort.
 
@@ -86,9 +86,9 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-### Support à l’apprentissage de vos étudiants  {#support-à-l’apprentissage-de-vos-étudiants}
+### Support à l’apprentissage de vos étudiants 
 
-#### 6\. Création de scénarios de cas réalistes {#6.-création-de-scénarios-de-cas-réalistes}
+#### 6\. Création de scénarios de cas réalistes 
 
 **Pourquoi :** Apprentissage par problème, engagement maximal.
 
@@ -99,7 +99,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 7\. Génération de feedback personnalisé pour travaux étudiants {#7.-génération-de-feedback-personnalisé-pour-travaux-étudiants}
+#### 7\. Génération de feedback personnalisé pour travaux étudiants 
 
 **Pourquoi :** Les étudiants apprennent davantage avec du feedback détaillé.
 
@@ -110,7 +110,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 8\. Création de glossaires interactifs {#8.-création-de-glossaires-interactifs}
+#### 8\. Création de glossaires interactifs 
 
 **Pourquoi :** Les étudiants adorent avoir des définitions claires.
 
@@ -121,7 +121,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 9\. Conception d'activités brise-glace thématiques {#9.-conception-d'activités-brise-glace-thématiques}
+#### 9\. Conception d'activités brise-glace thématiques 
 
 **Pourquoi :** Engagement dès le premier cours, connexion au contenu.
 
@@ -132,7 +132,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 10\. Création de grilles d'évaluation (rubrics) détaillées {#10.-création-de-grilles-d'évaluation-(rubrics)-détaillées}
+#### 10\. Création de grilles d'évaluation (rubrics) détaillées 
 
 **Pourquoi :** Transparence, objectivité, gain de temps en correction.
 
@@ -143,7 +143,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 11\. Génération de synthèses visuelles et conceptuelles {#11.-génération-de-synthèses-visuelles-et-conceptuelles}
+#### 11\. Génération de synthèses visuelles et conceptuelles 
 
 **Pourquoi :** Les schémas valent mille mots.
 
@@ -156,7 +156,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ### Efficacité  {#efficacité}
 
-#### 12\. Analyse comparative rapide de textes/théories {#12.-analyse-comparative-rapide-de-textes/théories}
+#### 12\. Analyse comparative rapide de textes/théories 
 
 **Pourquoi :** Synthèses complexes en quelques secondes.
 
@@ -167,7 +167,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 13\. Préparation de séances de rétroaction/révision ciblées {#13.-préparation-de-séances-de-rétroaction/révision-ciblées}
+#### 13\. Préparation de séances de rétroaction/révision ciblées
 
 **Pourquoi :** Maximise l'impact du temps en classe.
 
@@ -178,7 +178,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 14\. Génération de lettres de recommandation personnalisées {#14.-génération-de-lettres-de-recommandation-personnalisées}
+#### 14\. Génération de lettres de recommandation personnalisées 
 
 **Pourquoi :** Tâche chronophage mais importante pour les étudiants.
 
@@ -189,7 +189,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 ---
 
-#### 15\. Traduction et adaptation culturelle de matériel {#15.-traduction-et-adaptation-culturelle-de-matériel}
+#### 15\. Traduction et adaptation culturelle de matériel 
 
 **Pourquoi :** Internationalisation instantanée de vos cours.
 
@@ -198,7 +198,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 **Avantage :** Vos cours voyagent ou accueillent mieux la diversité.
 
-## Points d’attention {#points-d’attention}
+## Points d’attention 
 
 * Ces exemples vous proposent des prompts génériques, plus vous serez précis dans votre demande, meilleur sera le résultat. N'hésitez pas à affiner en continuant la conversation. Par exemple :   
   * “Peux-tu rendre les exemples plus concrets?”  
@@ -206,7 +206,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
   * “Propose d’autres points de vue, ajoute 3 exemples supplémentaires”  
 * Validez toujours les contenus. Les IA peuvent faire des erreurs, et vous restez responsables du résultat. 
 
-## Quelques exemples d’IA génératives  {#quelques-exemples-d’ia-génératives}
+## Quelques exemples d’IA génératives  
 
 * [ChatGPT](https://chat.openai.com/auth/login) est le premier **agent conversationnel** (chatbot) basé sur cette technologie proposé au grand public en novembre 2022\. Il est le service **généraliste** le plus populaire, et propose un accès limité gratuit. Il est capable de répondre à des questions, de tenir des conversations, et de générer du code informatique, d'écrire, de traduire ou encore de synthétiser des textes, des images … Différentes alternatives, comme [Mistral](https://chat.mistral.ai/chat) (Europe), [Claude](https://claude.ai/), [Gemini](https://gemini.google.com/) (Google), [DeepSeek](https://chat.deepseek.com/) (Chine) existent, avec leurs spécificités.  
 * [Deepl](https://www.deepl.com/fr/translator) est un service plus ancien (2017), mais spécialisé dans la traduction   
@@ -218,7 +218,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 Tous ces outils sont des outils grand public, avec une version gratuite. Ceux-ci sont susceptibles de réutiliser les données et les interactions que vous leur fournissez.  Pour l’instant, très peu d’établissements proposent une solution souveraine accessible dans le cadre des études, mais cela pourrait évoluer rapidement, justement pour des questions de confidentialité. 
 
-## Et après ?  {#et-après-?}
+## Et après ?  
 
 * Vous pouvez **consulter** la  [discussion avec l’IA générative Claude de chez Anthropic](https://poe.com/s/76GJ10NvM0SduxVimjN9), qui propose 87 exemples dans des cadres variés avec des outils adaptés aux situations les plus avancées (génération de médias, recherche d’informations, construction de contenus interactifs, …). Le [CPU de Montréal propose une série de fiches détaillées d’usages judicieux](https://cpu.umontreal.ca/fileadmin/cpu/documents/enseignement-apprentissage/enseigner-numerique/ia/utiliser-iag/GUI_PIM_Usages-IAg.pdf) pour les usages enseignants,  
 * Pour **décliner** de manière plus précise certains exemples au travers de fiches pédagogiques, vous pouvez consulter la section “Ressources” ci-dessous.   
@@ -227,7 +227,7 @@ Tous ces outils sont des outils grand public, avec une version gratuite. Ceux-ci
 * Vous pouvez également développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://docs.google.com/document/d/11bkglsKqAmWBSgD53RXsCjbi-MXkjBKXXEOVkpeGYNA/edit?tab=t.0#heading=h.u1lav9cgm7sj) constitue une première étape.   
 * Et finalement, n’hésitez pas à **proposer vos propres usages**, soit en nous en faisant part pour que nous puissions les intégrer, soit en les partageant à un public plus large[^1]. L’exploration des usages pertinents reste effectivement une tâche collective à mener par notre communauté. 
 
-## Ressources pour aller au delà de la prise en mains {#ressources-pour-aller-au-delà-de-la-prise-en-mains}
+## Ressources pour aller au delà de la prise en mains
 
 * Chats for university educators [ChatGPT for university educators](https://chatgpt.com/use-cases/university-educators)   
 * AI for Education propose de nombreuses ressources (en anglais), dont 2 gratuites une bibliothèque de prompts pour les enseignants : [Prompt Library — AI for Education](https://www.aiforeducation.io/prompt-library), avec par exemple une section spécifique pour l’évaluation [Design an AI-Resistant Assessment Using a Chatbot](https://www.aiforeducation.io/prompts/design-an-ai-resistant-assessment)  , et un cours de 2 heures pour démarrer avec les IAG : [AI Course for Educators](https://www.aiforeducation.io/ai-course)   

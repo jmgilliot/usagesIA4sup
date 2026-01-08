@@ -1,5 +1,7 @@
 # just-the-docs-template
 
+Adresse courante du site : https://jmgilliot.github.io/usagesIA4sup/
+
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
