@@ -2,8 +2,8 @@
 title: Objectif
 layout: default
 parent: Enseignant
-nav_order: 1
----
+nav_order: 0
+--- 
 
 *L’objectif de ce guide est double.*   
 *Il vise tout d’abord à permettre aux enseignants de découvrir les IA génératives (IAg) de manière efficace et éthique au travers d’usages pédagogiques.*  
