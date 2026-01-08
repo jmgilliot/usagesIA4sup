@@ -240,3 +240,5 @@ Tous ces outils sont des outils grand public, avec une version gratuite. Ceux-ci
 * Jane Hart Top 100 Tools for Learning [https://toptools4learning.com/](https://toptools4learning.com/)   
 * [Sélection de 60 applications d’IA génératives](https://www.uneiaparjour.fr/selection/) gratuites ou freemium par Une IA par Jour  
 * IAsup propose un [espace de ressources](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/) avec une [page dédiée aux guides d’usage](https://luniversitenumerique.fr/ia-sup-ressource-guide/) 
+
+[^1]:  Par exemple en le publiant sur le site Innovation Pédagogique
