@@ -2,7 +2,7 @@
 title: Objectif
 layout: default
 parent: Enseignant
-nav_order: 0
+nav_order: 1
 --- 
 
 *L’objectif de ce guide est double.*   

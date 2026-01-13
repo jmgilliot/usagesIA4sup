@@ -2,7 +2,7 @@
 title: Prise en main 
 layout: default
 parent: Enseignant
-nav_order: 1
+nav_order: 2
 ---
 # Première partie : prendre en main les IA génératives 
 
