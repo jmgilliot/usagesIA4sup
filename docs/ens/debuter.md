@@ -204,41 +204,50 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
   * “Peux-tu rendre les exemples plus concrets?”  
   * “Simplifie le vocabulaire pour des débutants”  
   * “Propose d’autres points de vue, ajoute 3 exemples supplémentaires”  
-* Validez toujours les contenus. Les IA peuvent faire des erreurs, et vous restez responsables du résultat. 
+* Validez toujours les contenus. Les IA peuvent faire des erreurs, et vous restez responsables du résultat.
+* Évaluez l’impact :   
+  * La qualité obtenue est-elle suffisante ? La reprise des résultats était facile ?  
+  * Avez-vous gagné du temps ?   
+  * Quel impact sur vos étudiants ? 
 
 ## Quelques exemples d’IA génératives  
-
-* [ChatGPT](https://chat.openai.com/auth/login) est le premier **agent conversationnel** (chatbot) basé sur cette technologie proposé au grand public en novembre 2022\. Il est le service **généraliste** le plus populaire, et propose un accès limité gratuit. Il est capable de répondre à des questions, de tenir des conversations, et de générer du code informatique, d'écrire, de traduire ou encore de synthétiser des textes, des images … Différentes alternatives, comme [Mistral](https://chat.mistral.ai/chat) (Europe), [Claude](https://claude.ai/), [Gemini](https://gemini.google.com/) (Google), [DeepSeek](https://chat.deepseek.com/) (Chine) existent, avec leurs spécificités.  
+* De nombreux **agents conversationnels** (chatbot) généralistes existent.   
+  * Si [ChatGPT](https://chat.openai.com/auth/login) est le premier basé sur cette technologie proposé au grand public en novembre 2022, différentes alternatives, comme [Mistral](https://chat.mistral.ai/chat) (Europe), [Claude](https://claude.ai/), [Gemini](https://gemini.google.com/) (Google), [DeepSeek](https://chat.deepseek.com/) (Chine) existent, avec leurs spécificités. Le classement respectif de ces différents outils varie avec le temps. Les versions gratuites suffisent pour se faire une idée des potentialités de ces outils, mais un abonnement peut s’avérer nécessaire pour un usage plus régulier et de meilleurs résultats.   
+  * [Mistral](https://chat.mistral.ai/chat) est la solution française, plus respectueuse de l’environnement et des données, soutenue notamment par l’IMT qui a souscrit un nombre important de licences,  
+  * [RAGaRenn](https://ragarenn.eskemm-numerique.fr/index.html) est un service souverain expérimental offrant un accès aux membres de l’enseignement supérieur, et des accès dédiés pour certains établissements, [dont l’IMT](https://ragarenn.eskemm-numerique.fr/sso/instance@imt/app/auth), qui comporte des modèles dédiés. Il utilise des modèles plus frugaux.   
 * [Deepl](https://www.deepl.com/fr/translator) est un service plus ancien (2017), mais spécialisé dans la traduction   
 * [NotebookLM](https://notebooklm.google/) permet de charger un ensemble de documents (au moins jusqu’à 50\) et d’obtenir des réponses basées sur les informations de ces documents. Il propose ainsi des synthèses sous forme pratique : résumé audio ou vidéo, carte mentale, guide d’étude. Vérifiez néanmoins que vous avez le droit de charger les documents dans ce service.   
 * [Github Copilot](https://github.com/education/students) permet une génération de code informatique directement dans les environnements de développement, et est gratuit pour les étudiants et les enseignants.  
 * [Heygen](https://www.heygen.com/) permet de générer des vidéos.  
-* [Perplexity](http://perplexity.ai) pour la recherche internet.  
+* [Perplexity](http://perplexity.ai) pour la recherche internet, et son [navigateur dédié Comet](https://www.perplexity.ai/fr/comet/gettingstarted), intégrant directement l’IA, et permettant d’utiliser différents modèles du commerce.   
 * Pour la recherche scientifique, des projets comme [SemanticScholar](https://www.semanticscholar.org/) ou des services comme [SciSpace](https://scispace.com/) permettent d'assister des  tâches de recherche bibliographiques sur les bases de données d’articles scientifiques.
 
 Tous ces outils sont des outils grand public, avec une version gratuite. Ceux-ci sont susceptibles de réutiliser les données et les interactions que vous leur fournissez.  Pour l’instant, très peu d’établissements proposent une solution souveraine accessible dans le cadre des études, mais cela pourrait évoluer rapidement, justement pour des questions de confidentialité. 
 
 ## Et après ?  
 
-* Vous pouvez **consulter** la  [discussion avec l’IA générative Claude de chez Anthropic](https://poe.com/s/76GJ10NvM0SduxVimjN9), qui propose 87 exemples dans des cadres variés avec des outils adaptés aux situations les plus avancées (génération de médias, recherche d’informations, construction de contenus interactifs, …). Le [CPU de Montréal propose une série de fiches détaillées d’usages judicieux](https://cpu.umontreal.ca/fileadmin/cpu/documents/enseignement-apprentissage/enseigner-numerique/ia/utiliser-iag/GUI_PIM_Usages-IAg.pdf) pour les usages enseignants,  
-* Pour **décliner** de manière plus précise certains exemples au travers de fiches pédagogiques, vous pouvez consulter la section “Ressources” ci-dessous.   
-* Vous pouvez **consulter** le [Guide de l'étudiant IA gén ](https://docs.google.com/document/d/1GpUBFbXfgmRBK9-j9MiHKrx8Usx4HT7GSQer0HakokQ/edit?tab=t.u6v4ogbvsqjm#heading=h.sezhkab798qo) pour découvrir les pratiques conseillées aux étudiants pour mieux apprendre.  
-* Vous pouvez consulter le [Guide du chercheur IAGén ](https://docs.google.com/document/d/16Wwl4b4UpR_2GzyC3d2a1-t8__asZC8TCQm9Da19xmI/edit?tab=t.0#heading=h.e2v1eybiqd64) pour vous assister dans votre recherche ou pour accompagner vos étudiants dans un cursus de recherche.  
+* Vous pouvez **consulter** le [ETU: Guide de l'étudiant IAg ](https://docs.google.com/document/d/1GpUBFbXfgmRBK9-j9MiHKrx8Usx4HT7GSQer0HakokQ/edit?tab=t.u6v4ogbvsqjm#heading=h.sezhkab798qo) pour découvrir les pratiques conseillées aux étudiants pour mieux apprendre.  
+* Vous pouvez consulter le [CHER : Guide du chercheur IAg](https://docs.google.com/document/d/16Wwl4b4UpR_2GzyC3d2a1-t8__asZC8TCQm9Da19xmI/edit?tab=t.0#heading=h.e2v1eybiqd64) pour vous assister dans votre recherche ou pour accompagner vos étudiants dans un cursus de recherche.  
 * Vous pouvez également développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://docs.google.com/document/d/11bkglsKqAmWBSgD53RXsCjbi-MXkjBKXXEOVkpeGYNA/edit?tab=t.0#heading=h.u1lav9cgm7sj) constitue une première étape.   
+* Pour **décliner** de manière plus précise certains exemples au travers de fiches pédagogiques, vous pouvez consulter la section “Ressources” ci-dessous.   
 * Et finalement, n’hésitez pas à **proposer vos propres usages**, soit en nous en faisant part pour que nous puissions les intégrer, soit en les partageant à un public plus large[^1]. L’exploration des usages pertinents reste effectivement une tâche collective à mener par notre communauté. 
 
-## Ressources pour aller au delà de la prise en mains
+## Ressources pour aller au delà de la prise en main
+* [Guide d’usages de l’intelligence artificielle générative (IAg) pour des tâches pédagogiques en enseignement supérieur](https://cpu.umontreal.ca/fileadmin/cpu/documents/enseignement-apprentissage/enseigner-numerique/ia/utiliser-iag/GUI_PIM_Usages-IAg.pdf) \- Université Montréal 2025  
+* [Intégrer l’IA générative dans les stratégies pédagogiques](https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1089.3/6/CahierLLL_IAG_OKOER.pdf) \- Pascal Vangrunderbeeck UCLouvain LLL 2024  
+* La CNIL propose des conseils et des bonnes pratiques : [Enseignant : comment utiliser un système d’IA dans le cadre de vos missions ?](https://www.cnil.fr/fr/enseignant-usage-systeme-ia)  
+* [Métropédia](https://view.genially.com/68b15ef95d61ac2fc43c037c) \- plateforme d’activités et de ressources pédagogiques à mobiliser pour aborder la thématique de l'intelligence artificielle (IA) avec les personnes étudiantes UCLouvain LLL   
+* [4 fiches des expérimentations de la CoP LiteratIA](https://collimateur.uqam.ca/collimateur/4-fiches-des-experimentations-de-la-cop-literatia/)  
+* La mission IAsup propose un [espace de ressources](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/) avec une [page dédiée aux guides d’usage](https://luniversitenumerique.fr/ia-sup-ressource-guide/).
 
 * Chats for university educators [ChatGPT for university educators](https://chatgpt.com/use-cases/university-educators)   
 * AI for Education propose de nombreuses ressources (en anglais), dont 2 gratuites une bibliothèque de prompts pour les enseignants : [Prompt Library — AI for Education](https://www.aiforeducation.io/prompt-library), avec par exemple une section spécifique pour l’évaluation [Design an AI-Resistant Assessment Using a Chatbot](https://www.aiforeducation.io/prompts/design-an-ai-resistant-assessment)  , et un cours de 2 heures pour démarrer avec les IAG : [AI Course for Educators](https://www.aiforeducation.io/ai-course)   
 * AI pedagogy project metaLAB Harvard [Teaching With AI – The AI Pedagogy Project](https://aipedagogy.org/guide/teaching-with-ai/)   
-* [Usage enseignants \- discussion avec Claude](https://poe.com/s/76GJ10NvM0SduxVimjN9) \- 30 octobre 2025 https://poe.com/s/76GJ10NvM0SduxVimjN9  
-* [Guide d’usages de l’intelligence artificielle générative (IAg) pour des tâches pédagogiques en enseignement supérieur](https://cpu.umontreal.ca/fileadmin/cpu/documents/enseignement-apprentissage/enseigner-numerique/ia/utiliser-iag/GUI_PIM_Usages-IAg.pdf) \- Université Montréal 2025   
-* Pascal Vangrunderbeeck (2024) [Intégrer l’IA générative dans les stratégies pédagogiques](https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1089.3/6/CahierLLL_IAG_OKOER.pdf) \- UCLouvain LLL   
-* [Métropédia](https://view.genially.com/68b15ef95d61ac2fc43c037c) \- plateforme d’activités et de ressources pédagogiques à mobiliser pour aborder la thématique de l'intelligence artificielle (IA) avec les personnes étudiantes UCLouvain LLL   
-* [4 fiches des expérimentations de la CoP LiteratIA](https://collimateur.uqam.ca/collimateur/4-fiches-des-experimentations-de-la-cop-literatia/)  
+* [Usage enseignants \- discussion avec Claude](https://poe.com/s/76GJ10NvM0SduxVimjN9) \- 30 octobre 2025 [https://poe.com/s/76GJ10NvM0SduxVimjN9](https://poe.com/s/76GJ10NvM0SduxVimjN9)
+
 * Jane Hart Top 100 Tools for Learning [https://toptools4learning.com/](https://toptools4learning.com/)   
-* [Sélection de 60 applications d’IA génératives](https://www.uneiaparjour.fr/selection/) gratuites ou freemium par Une IA par Jour  
-* IAsup propose un [espace de ressources](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/) avec une [page dédiée aux guides d’usage](https://luniversitenumerique.fr/ia-sup-ressource-guide/) 
+* [Sélection de 60 applications d’IA génératives](https://www.uneiaparjour.fr/selection/) gratuites ou freemium par Une IA par Jour
+
+
 
 [^1]:  Par exemple en le publiant sur le site Innovation Pédagogique

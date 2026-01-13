@@ -7,12 +7,13 @@ nav_order: 3
 
 # Deuxième partie : Quel cadre pédagogique avec nos étudiants ? 
 
-L’essor des IAg repose la question du contrat pédagogique passé entre les enseignants et les étudiants. Cette question dépasse largement la question de la triche, avec la nécessité de permettre à nos étudiants de développer des usages pertinents et éthiques. Dans le cadre des apprentissages, le risque principal est qu’un recours inadéquat à de tels outils peut conduire à une illusion d’apprentissage qui à terme va pénaliser l’élève.   
-Le rôle de l’enseignant est donc de proposer un cadre pédagogique clair et aussi d’accompagner les étudiants dans leurs apprentissages. De fait, de nombreux étudiants ont développé des usages pertinents, mais parce que ces usages ne sont pas toujours reconnus et partagés, certains se retrouvent désavantagés, voire démunis. De plus, si les usages autorisés ne sont pas explicités, les étudiants ne savent pas si leurs usages sont considérés comme pertinents, ou comme une triche. L’information et la formation des étudiants ne peuvent qu'être bénéfiques.
+L’essor des IAg repose la question du contrat pédagogique passé entre les enseignants et les étudiants. Cette question dépasse largement la question de la triche, avec la nécessité de permettre à nos étudiants de développer des usages pertinents et éthiques, sachant que pour eux, l’usage de ces technologies est une évidence. Dans le cadre des apprentissages, le risque principal est qu’un recours inadéquat à de tels outils peut conduire à une illusion d’apprentissage qui à terme va pénaliser l’élève. 
+
+Le rôle de l’enseignant est donc de proposer un cadre pédagogique clair et aussi d’accompagner les étudiants dans leurs apprentissages. De fait, de nombreux étudiants ont développé des usages pertinents, mais parce que ces usages ne sont pas toujours reconnus et partagés, certains se trouvent désavantagés, voire démunis. De plus, si les usages autorisés ne sont pas explicités, les étudiants ne savent pas si leurs usages sont considérés comme pertinents, ou comme une triche. L’information et la formation des étudiants ne peuvent qu'être bénéfiques.
 
 Comme nous allons le voir, l’usage des IAg peut varier suivant les cours, voir les objectifs précis d’une activité. Il est donc important de repréciser les règles qui prévalent dans chaque cours (voire dans chaque activité) et de les partager de manière explicite avec vos étudiants (et le reste de l’équipe pédagogique), non seulement à l’oral, mais aussi de manière écrite. 
 
-## Quelles consignes donner aux étudiants ?
+## Quelles consignes donner aux étudiants ?  
 
 De manière générale, il est important de donner des consignes explicites au plus tôt dans un enseignement, et de manière à ce qu’elles soient effectivement comprises et appliquées.
 
@@ -35,19 +36,19 @@ Certaines universités (notamment québécoises) proposent des pictogrammes, ou 
 * [Déclaration et autorisation d’utilisation des niveaux de l’intelligence artificielle générative](https://www.uqac.ca/ressourcespedago/iag-declaration/) de l’UQAC  
 * [Balises d’utilisation des outils d’IAg](https://www.usherbrooke.ca/ssf/enseignement/intelligence-artificielle-ia/outils/balises-dutilisation-des-outils-diag) de l’université de Sherbrooke (UDS)
 
-**Précisez** si et **comment** les étudiants doivent **déclarer** leur usage des IAg. Cela peut se faire au travers d’une section dédiée dans un rapport, ou au travers d’une déclaration jointe à leur travail. Des déclarations types existent (voir celle de [KU Leuven](https://www.kuleuven.be/onderwijs/learninglab/ondersteuning/genai/documenten/20250528-aj2526-genai-code-of-conduct-en.docx) (en anglais), ou celles de  [l’UDS](https://zenodo.org/records/14510665/files/2_form_declaration_usages_IAg_SSF_UdeS.docx?download=1), disponible dans un [kit complet pour d’usage](https://zenodo.org/records/14510665)). 
+**Précisez** si et **comment** les étudiants doivent **déclarer** leur usage des IAg. Cela peut se faire au travers d’une section dédiée dans un rapport, ou au travers d’une déclaration jointe à leur travail. Des déclarations types existent : voir celle de [KU Leuven](https://www.kuleuven.be/onderwijs/learninglab/ondersteuning/genai/documenten/20250528-aj2526-genai-code-of-conduct-en.docx) (en anglais), ou celles de  [l’UDS](https://zenodo.org/records/14510665/files/2_form_declaration_usages_IAg_SSF_UdeS.docx?download=1), disponible dans un [kit complet d’usage](https://zenodo.org/records/14510665)). 
 
-Au niveau de votre formation, ou de votre établissement, utilisez une démarche commune en proposant des consignes et des procédures de déclaration type. 
+Au niveau de votre formation, ou de votre établissement, utilisez une démarche commune en proposant des consignes et des procédures de déclaration type. Cela aidera les enseignants à préciser les modalités souhaitées et les étudiants à intégrer et respecter les consignes données. 
 
-## Logiques sous-jacentes aux usages de l’IAg 
+## Logiques sous-jacentes aux usages de l’IAg
 
-Pour vous guider dans vos choix d’usages autorisés, nous vous proposons trois axes de réflexion : 
+Pour l’enseignant, la question est donc de déterminer quelles sont les consignes qui permettent d’atteindre les objectifs d’apprentissages visés. Pour vous guider dans vos choix d’usages autorisés, nous vous proposons trois axes de réflexion : 
 
-* Ne pas contrarier les apprentissages  
-* Baisser les barrières à l’apprentissage  
-* Soutenir une pédagogie active
+* Ne pas contrarier les apprentissages ;  
+* Baisser les barrières à l’apprentissage ;  
+* Soutenir une pédagogie active.
 
-### Ne pas contrarier les apprentissages  
+### Ne pas contrarier les apprentissages 
 
 L’usage de l’IAg ne doit pas remplacer l’effort cognitif dédié à l’apprentissage visé. La compréhension d’un nouveau concept, son appropriation, son activation dans une situation donnée ne peuvent être prises en charge par l’IAg.  
 Si les étudiants délèguent la tâche intellectuelle visée à l’IAg, le risque est une illusion d’apprentissage. Le [guide de l’étudiant](https://docs.google.com/document/d/1GpUBFbXfgmRBK9-j9MiHKrx8Usx4HT7GSQer0HakokQ/edit?tab=t.u6v4ogbvsqjm#heading=h.efbo3062q603) leur propose une validation de leurs apprentissages que vous pouvez leur suggérer d’activer. 
@@ -64,30 +65,26 @@ L’IAg peut être intégrée dans une activité pédagogique en tant qu’outil
 De manière générale, l’usage de l’IAg prend tout son intérêt dans un cadre favorisant l’analyse critique, (à des niveaux élevés dans la taxonomie de Bloom, analyse ou supérieur).
 
 Ainsi, des chercheures comme [Margarida Roméro incitent à viser des usages créatifs des IA en éducation](https://margaridaromero.blog/2024/04/23/usages-creatifs-de-liappai6/) :
+![](https://margaridaromero.wordpress.com/wp-content/uploads/2024/04/romero-ia-10.png?w=1024)
 
-![][https://margaridaromero.wordpress.com/wp-content/uploads/2024/04/romero-ia-10.png]
+De manière similaire (Perkins, Roe & Furze, 2024\) proposent l’AIAS ou  “AI Assessment Scale” qui est une échelle, ou cadre d’intégration de l’IA générative, dans les activité et les évaluations d’apprentissage, proposée sous forme de ressource éducative libre, et dont une [traduction en français est disponible](https://github.com/jourde/echelle-evaluation-avec-IA/).    
+![](https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png?raw=true)
 
-De manière similaire (Perkins, Roe & Furze, 2024\) proposent l’AIAS ou  “AI Assessment Scale” qui est une échelle, ou cadre d’intégration de l’IA générative, dans les activité et les évaluations d’apprentissage, proposée sous forme de ressource éducative libre, et dont une [traduction en français est disponible](https://github.com/jourde/echelle-evaluation-avec-IA/).  
-
-![][image2]
+Ces initiatives posent des bases solides pour envisager l’usage des IAg encourageant une approche plus autonome, réfléchie, pour développer des processus cognitifs de plus haut niveau (au sens de la taxonomie de Bloom). 
 
 ## L’évaluation avec ou sans IAg  
 
-Il convient de limiter les évaluations pouvant pousser les étudiants à la triche. Les raisons principales de recours illicites aux IAg, sont d’abord liées à une surcharge de travail des étudiants, à l’enjeu ressenti de la tâche, à son manque d’authenticité, au manque de cadre clair. Bref, il est important de conserver un cadre de confiance pour limiter le recours à la triche, qu’elle passe par l’IAg ou par un autre moyen.  
+Il convient de limiter les évaluations pouvant pousser les étudiants à la triche. Les raisons principales de recours illicites aux IAg, sont d’abord liées à une surcharge de travail des étudiants, à l’enjeu ressenti de la tâche, à son manque d’authenticité, au manque de cadre clair. Bref, il est important de conserver un cadre de confiance pour limiter le recours à la triche, qu’elle passe par l’IAg ou par un autre moyen.
+
 En étant aligné avec vos objectifs pédagogiques et avec les consignes données aux étudiants, les consignes d’évaluation visent à préciser l’usage d’outils d’IAg, tout comme l’usage d’autres outils (calculette scientifique, environnement de simulation, environnement de développement, …).
 
 Ajoutons que les outils de détection de plagiat utilisés ces dernières années dans les établissements s’avèrent imparfaits face à la détection de l’usage d’IAg, ce qui peut mener à des situations d’accusations erronées et donc contraires à l’établissement d’un cadre de confiance. 
 
-### Un modèle pour aider à positionner les pratiques d'évaluation dans un contexte influencé par l'intelligence artificielle générative 
+La question du renouvellement des évaluations à l’ère de l’IA est partagée par l’ensemble de la communauté. De nombreux guides commencent à être disponibles. Parmi ceux-ci, nous recommandons le [modèle PRAX-IA](https://enseigner.unil.ch/ressources/document/prax-ia/) pour aider à positionner les pratiques d’évaluation dans un contexte influencé par l'intelligence artificielle générative. Proposé par Jeff van der Poël de l’université de Lausanne pour soutenir la réflexion collective sur les transformations nécessaires liées à l’essor des IAg, il est basé sur une revue de littérature sur les usages recensés d’une part, et est décliné sous forme d’outils pratiques. Son modèle permet d’aborder la question de l’évaluation soit sous l’angle de la remise en question des modalités existantes, soit sous l’angle d’une approche intégrée de l’usage de l’IA dans nos cours. [La représentation graphique du modèle](https://miro.com/app/board/uXjVLWSbC0Q=/) permet d’accéder à toutes les ressources liées. (une [version V2 plus récente](https://miro.com/app/board/uXjVIkIGEk8=/) reste sous forme de version beta) \- ll propose également un [assistant sur chatGPT](https://chatgpt.com/g/g-69086b5bcebc8191bba8f5ff30000e69-conseiller-competences-ia-enseignement-superieur) 
 
-Jeff van der Poël de l’université de Lausanne [propose un modèle PRAX-IA](https://enseigner.unil.ch/ressources/document/prax-ia/) pour soutenir la réflexion collective sur les transformations nécessaires liées à l’essor des IAg.  
-Il propose une revue de littérature sur les usages recensés d’une part, déclinés sous forme d’outils pratiques. Son modèle permet d’aborder la question de l’évaluation soit sous l’angle de la remise en question des modalités existantes, soit sous l’angle d’une approche intégrée de l’usage de l’IA dans nos cours. [La représentation graphique du modèle](https://miro.com/app/board/uXjVLWSbC0Q=/) permet d’accéder à toutes les ressources liées. (une [version V2 plus récente](https://miro.com/app/board/uXjVIkIGEk8=/) reste sous forme de version beta). ll propose également [un assistant sur chatGPT](https://chatgpt.com/g/g-69086b5bcebc8191bba8f5ff30000e69-conseiller-competences-ia-enseignement-superieur)
+La transformation des usages pédagogiques par l’IAg est néanmoins encore loin d’être stabilisée, autant parce que les outils évoluent que parce que les usages restent encore à être découverts et partagés. Les évaluations sont un point central, ne serait-ce que parce que les étudiants organisent leurs apprentissages d’abord par rapport à elles, comme nous le rappelle le [principe de l’alignement pédagogique](https://enseigner.hec.ca/pedagogie/alignement-pedagogique/). 
 
-### Une réflexion en cours  
-
-La transformation des usages pédagogiques par l’IAg est encore loin d’être stabilisée, autant parce que les outils évoluent que parce que les usages restent encore à être découverts et partagés. Les évaluations sont un point central, ne serait-ce que parce que les étudiants organisent leurs apprentissages d’abord par rapport à elles, comme nous le rappelle le [principe de l’alignement pédagogique](https://enseigner.hec.ca/pedagogie/alignement-pedagogique/). 
-
-## Ressources autour du cadre pédagogique pour les étudiants  {#ressources-autour-du-cadre-pédagogique-pour-les-étudiants}
+## Ressources autour du cadre pédagogique pour les étudiants 
 
 * CPU Montréal (2025). [Guide d'usages de l'intelligence artificielle générative (IAg) pour des tâches pédagogiques en enseignement supérieur](https://cpu.umontreal.ca/fileadmin/cpu/documents/enseignement-apprentissage/enseigner-numerique/ia/utiliser-iag/GUI_PIM_Usages-IAg.pdf)   
 * UQAC (2025) [Déclaration et autorisation d’utilisation des niveaux de l’intelligence artificielle générative (IAg). – Ressources pédagogiques](https://www.uqac.ca/ressourcespedago/iag-declaration/)	  
