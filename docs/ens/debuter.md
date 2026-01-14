@@ -35,8 +35,10 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 
 **Pourquoi commencer par ici :** Gain de temps immédiat, structure claire, facile à adapter.
 
-*Exemple de prompt :*  
- "Créez un plan détaillé pour un cours de 12 semaines sur \[votre sujet\]. Incluez pour chaque semaine : thème principal, 3 objectifs d'apprentissage spécifiques, activités pédagogiques variées, et une évaluation formative. Niveau licence 2."
+*Exemple de prompt :* 
+
+> Créez un plan détaillé pour un cours de 12 semaines sur \[votre sujet\]. Incluez pour chaque semaine : thème principal, 3 objectifs d'apprentissage spécifiques, activités pédagogiques variées, et une évaluation formative. Niveau licence 2.
+
 
 **Astuce pratique :** Générez d'abord la structure, puis affinez semaine par semaine selon vos besoins.
 
@@ -47,7 +49,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Inclusivité instantanée, adaptabilité pédagogique.
 
 *Exemple de prompt :*  
- "Réécrivez cette explication du théorème de Pythagore de trois façons : (1) pour un étudiant de licence débutant sans base mathématique solide, (2) pour un étudiant moyen, (3) pour un étudiant avancé qui veut approfondir."
+> "Réécrivez cette explication du théorème de Pythagore de trois façons : (1) pour un étudiant de licence débutant sans base mathématique solide, (2) pour un étudiant moyen, (3) pour un étudiant avancé qui veut approfondir."
 
 **Impact immédiat :** Tous vos étudiants trouvent le niveau qui leur convient.
 
@@ -58,7 +60,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Élimine l'angoisse de la page blanche, diversité automatique.
 
 *Exemple de prompt :*  
- "Générez 15 questions d'examen sur \[chapitre X\] avec : 5 QCM (4 choix chacune), 5 questions courtes (2-3 phrases), et 5 questions à développement. Incluez le corrigé avec barème de notation pour chacune."
+>> "Générez 15 questions d'examen sur \[chapitre X\] avec : 5 QCM (4 choix chacune), 5 questions courtes (2-3 phrases), et 5 questions à développement. Incluez le corrigé avec barème de notation pour chacune."
 
 **Gain de temps estimé :** 2-3 heures par examen.
 
@@ -69,7 +71,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Les étudiants retiennent mieux avec des exemples familiers.
 
 *Exemple de prompt :*  
- "Je dois expliquer le concept de supply and demand à des étudiants québécois de 20 ans. Donnez-moi 5 exemples concrets tirés de leur vie quotidienne : marché du logement étudiant, applications de livraison, concerts populaires, etc. Chaque exemple doit clairement illustrer comment prix et quantité s'ajustent."
+> "Je dois expliquer le concept de supply and demand à des étudiants québécois de 20 ans. Donnez-moi 5 exemples concrets tirés de leur vie quotidienne : marché du logement étudiant, applications de livraison, concerts populaires, etc. Chaque exemple doit clairement illustrer comment prix et quantité s'ajustent."
 
 **Pourquoi c'est efficace :** Connexion immédiate avec le vécu étudiant.
 
@@ -80,7 +82,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Professionnalisme accru sans effort.
 
 *Exemple de prompt :*  
- "Corrigez les fautes d'orthographe, de grammaire et de syntaxe dans ce document de 15 pages. Améliorez aussi la clarté sans changer le sens. Indiquez en commentaires les modifications importantes que vous proposez."
+> "Corrigez les fautes d'orthographe, de grammaire et de syntaxe dans ce document de 15 pages. Améliorez aussi la clarté sans changer le sens. Indiquez en commentaires les modifications importantes que vous proposez."
 
 **Bénéfice caché :** Vous apprenez de vos erreurs récurrentes.
 
@@ -93,7 +95,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Apprentissage par problème, engagement maximal.
 
 *Exemple de prompt :*  
- "Créez 3 études de cas détaillées (500 mots chacune) pour mon cours d'éthique professionnelle en ingénierie. Chaque cas doit présenter un dilemme éthique réel avec : contexte organisationnel, parties prenantes avec intérêts divergents, contraintes techniques et économiques, et plusieurs solutions possibles avec conséquences. Basez-vous sur des situations réelles plausibles de 2024-2025."
+> "Créez 3 études de cas détaillées (500 mots chacune) pour mon cours d'éthique professionnelle en ingénierie. Chaque cas doit présenter un dilemme éthique réel avec : contexte organisationnel, parties prenantes avec intérêts divergents, contraintes techniques et économiques, et plusieurs solutions possibles avec conséquences. Basez-vous sur des situations réelles plausibles de 2024-2025."
 
 **Impact pédagogique :** Discussion et débat garantis.
 
@@ -104,7 +106,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Les étudiants apprennent davantage avec du feedback détaillé.
 
 *Exemple de prompt :*  
- "Analysez cet essai de 1500 mots d'un étudiant sur \[sujet\]. Fournissez un feedback constructif et encourageant (300 mots) qui identifie : 2-3 forces spécifiques avec exemples précis, 2-3 points à améliorer avec suggestions concrètes d'amélioration, et une question ouverte pour approfondir sa réflexion. Ton bienveillant mais exigeant."
+> "Analysez cet essai de 1500 mots d'un étudiant sur \[sujet\]. Fournissez un feedback constructif et encourageant (300 mots) qui identifie : 2-3 forces spécifiques avec exemples précis, 2-3 points à améliorer avec suggestions concrètes d'amélioration, et une question ouverte pour approfondir sa réflexion. Ton bienveillant mais exigeant."
 
 **Ensuite :** Personnalisez le feedback généré selon votre connaissance de l'étudiant.
 
@@ -115,7 +117,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Les étudiants adorent avoir des définitions claires.
 
 *Exemple de prompt :*  
- "Créez un glossaire de 40 termes essentiels pour mon cours d'introduction à la psychologie cognitive. Pour chaque terme : définition simple (20-30 mots), exemple concret d'application, et une erreur fréquente à éviter. Organisez par ordre alphabétique avec catégories thématiques."
+> "Créez un glossaire de 40 termes essentiels pour mon cours d'introduction à la psychologie cognitive. Pour chaque terme : définition simple (20-30 mots), exemple concret d'application, et une erreur fréquente à éviter. Organisez par ordre alphabétique avec catégories thématiques."
 
 **Format bonus :** Demandez ensuite de le convertir en flashcards Quizlet.
 
@@ -126,7 +128,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Engagement dès le premier cours, connexion au contenu.
 
 *Exemple de prompt :*  
- "Concevez 5 activités brise-glace originales (15 minutes chacune) pour le premier cours de mon séminaire sur le changement climatique. Chaque activité doit favoriser les interactions entre 25 étudiants qui ne se connaissent pas, introduire subtilement un concept clé du cours, et être réalisable en classe sans matériel spécial. Incluez les instructions pas à pas."
+> "Concevez 5 activités brise-glace originales (15 minutes chacune) pour le premier cours de mon séminaire sur le changement climatique. Chaque activité doit favoriser les interactions entre 25 étudiants qui ne se connaissent pas, introduire subtilement un concept clé du cours, et être réalisable en classe sans matériel spécial. Incluez les instructions pas à pas."
 
 **Résultat :** Ambiance positive dès le début.
 
@@ -137,7 +139,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Transparence, objectivité, gain de temps en correction.
 
 *Exemple de prompt :*  
- "Créez une grille d'évaluation détaillée (rubric) pour un essai argumentatif de 2500 mots en sciences politiques. Incluez 6 critères (thèse, argumentation, utilisation des sources, structure, style académique, respect des conventions). Pour chaque critère : définition claire, 4 niveaux de performance (excellent/bon/satisfaisant/insuffisant) avec descripteurs spécifiques, et pondération suggérée sur 100 points."
+> "Créez une grille d'évaluation détaillée (rubric) pour un essai argumentatif de 2500 mots en sciences politiques. Incluez 6 critères (thèse, argumentation, utilisation des sources, structure, style académique, respect des conventions). Pour chaque critère : définition claire, 4 niveaux de performance (excellent/bon/satisfaisant/insuffisant) avec descripteurs spécifiques, et pondération suggérée sur 100 points."
 
 **Bénéfice double :** Guide pour les étudiants \+ cohérence en correction.
 
@@ -148,7 +150,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Les schémas valent mille mots.
 
 *Exemple de prompt :*  
- "Décrivez comment créer un schéma conceptuel visuel qui illustre les relations entre les 8 concepts principaux de \[théorie/modèle\]. Indiquez : quels concepts placer au centre vs périphérie, quels liens causaux ou hiérarchiques tracer entre eux, quelles couleurs utiliser pour regrouper concepts apparentés, et quelles annotations ajouter. Décrivez le schéma en détail comme si vous guidiez un designer."
+> "Décrivez comment créer un schéma conceptuel visuel qui illustre les relations entre les 8 concepts principaux de \[théorie/modèle\]. Indiquez : quels concepts placer au centre vs périphérie, quels liens causaux ou hiérarchiques tracer entre eux, quelles couleurs utiliser pour regrouper concepts apparentés, et quelles annotations ajouter. Décrivez le schéma en détail comme si vous guidiez un designer."
 
 **Prochaine étape :** Utilisez cette description pour créer le visuel avec Canva ou un outil de diagramme.
 
@@ -161,7 +163,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Synthèses complexes en quelques secondes.
 
 *Exemple de prompt :*  
- "Comparez les approches de \[Auteur A\], \[Auteur B\] et \[Auteur C\] sur la question de \[problématique\]. Créez un tableau comparatif avec : points de convergence, points de divergence, forces de chaque approche, limites de chaque approche, et implications pratiques. Ajoutez une synthèse de 200 mots sur comment ces approches peuvent être intégrées."
+> "Comparez les approches de \[Auteur A\], \[Auteur B\] et \[Auteur C\] sur la question de \[problématique\]. Créez un tableau comparatif avec : points de convergence, points de divergence, forces de chaque approche, limites de chaque approche, et implications pratiques. Ajoutez une synthèse de 200 mots sur comment ces approches peuvent être intégrées."
 
 **Gain :** Évite des heures de (re)lecture.
 
@@ -172,7 +174,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Maximise l'impact du temps en classe.
 
 *Exemple de prompt :*  
- "Après l'examen de mi-session, j'ai identifié que mes étudiants ont particulièrement échoué sur \[concept X\] et \[concept Y\]. Concevez une séance de révision de 75 minutes qui : diagnostique précisément où sont les incompréhensions, propose des explications alternatives avec de nouvelles analogies, inclut des exercices progressifs de remédiation, et vérifie que les malentendus sont corrigés. Format interactif et engageant."
+> "Après l'examen de mi-session, j'ai identifié que mes étudiants ont particulièrement échoué sur \[concept X\] et \[concept Y\]. Concevez une séance de révision de 75 minutes qui : diagnostique précisément où sont les incompréhensions, propose des explications alternatives avec de nouvelles analogies, inclut des exercices progressifs de remédiation, et vérifie que les malentendus sont corrigés. Format interactif et engageant."
 
 **Impact :** Révisions efficaces plutôt que répétition inutile.
 
@@ -183,7 +185,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Tâche chronophage mais importante pour les étudiants.
 
 *Exemple de prompt :*  
- "Rédigez une lettre de recommandation pour \[Nom de l'étudiant\] qui postule pour \[programme/emploi\]. L'étudiant a suivi mes 2 cours de \[matières\], où il/elle a : \[accomplissements spécifiques\]. Ses forces incluent \[qualités\]. Ton professionnel et enthousiaste, 350 mots, avec exemples concrets démontrant ces qualités. Structure : introduction, qualités académiques, qualités personnelles/professionnelles, conclusion recommandant fortement."
+> "Rédigez une lettre de recommandation pour \[Nom de l'étudiant\] qui postule pour \[programme/emploi\]. L'étudiant a suivi mes 2 cours de \[matières\], où il/elle a : \[accomplissements spécifiques\]. Ses forces incluent \[qualités\]. Ton professionnel et enthousiaste, 350 mots, avec exemples concrets démontrant ces qualités. Structure : introduction, qualités académiques, qualités personnelles/professionnelles, conclusion recommandant fortement."
 
 **Ensuite :** Personnalisez avec des anecdotes spécifiques que vous seul connaissez.
 
@@ -194,7 +196,7 @@ Pour chaque exemple, nous vous proposons un exemple de prompt (i.e. le message i
 **Pourquoi :** Internationalisation instantanée de vos cours.
 
 *Exemple de prompt :*  
- "Traduisez ce syllabus de 12 pages de l'anglais vers le français. Ensuite, adaptez les exemples culturels pour un public québécois : remplacez les références à des événements historiques américains par des équivalents canadiens/québécois, adaptez les exemples d'entreprises et de personnalités, et ajustez le ton formel pour correspondre aux conventions académiques francophones. Indiquez clairement où vous avez fait des adaptations culturelles."
+> "Traduisez ce syllabus de 12 pages de l'anglais vers le français. Ensuite, adaptez les exemples culturels pour un public québécois : remplacez les références à des événements historiques américains par des équivalents canadiens/québécois, adaptez les exemples d'entreprises et de personnalités, et ajustez le ton formel pour correspondre aux conventions académiques francophones. Indiquez clairement où vous avez fait des adaptations culturelles."
 
 **Avantage :** Vos cours voyagent ou accueillent mieux la diversité.
 
