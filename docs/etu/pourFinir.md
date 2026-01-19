@@ -41,7 +41,7 @@ L’intelligence collective est plus forte que l’IA générative. N’hésitez
 
 Dans un premier temps, nous vous proposons pour cela : 
 
-* Un [formulaire pour vos suggestions](https://grist.numerique.gouv.fr/o/docs/forms/uf4b75EmcxVibzWR1hemQk/69) ;  
+* Un [formulaire pour vos suggestions](https://grist.numerique.gouv.fr/o/docs/forms/shK19gimGvpXYBE5j1wvMQ/6 ) ;  
 * Un [salon de discussion dédié](https://tchap.gouv.fr/#/room/!kUVzpqXjFmgSJpSOWi:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr) sur la messagerie Tchap 
 
 # Crédit  {#crédit}
