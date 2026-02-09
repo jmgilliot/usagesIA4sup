@@ -13,6 +13,7 @@ Il est également possible qu'un espace d'échanges soit prévu pour avancer dan
 
 # Pour aller plus loin 
 
+* [La Fabrique à Idiots](https://ladigitale.dev/digiview/#/v/6985e0cb3ed72) par Micode, présente en quoi l’IA générative présente des risques d’atrophie cognitive, d’illusion d’apprentissage, et présente en quoi il est nécessaire de conserver la maîtrise des concepts mobilisés, et de développer sa métacognition. D’une grande clarté et très pédagogique.
 * Prompt Engineering Guide [https://www.promptingguide.ai/fr](https://www.promptingguide.ai/fr) , consulté le 17/09/2025  
 * Une variante de ce guide proposée par Claude mettant l’accent sur le travail de groupe : [https://claude.ai/public/artifacts/59b89819-51ac-4504-959e-351cf5fbfbfb](https://claude.ai/public/artifacts/59b89819-51ac-4504-959e-351cf5fbfbfb)   
 * [Chats pour les étudiants](https://chatgpt.com/use-cases/students) (proposé par OpenAI \- ChatGPT)  
